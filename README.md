@@ -115,7 +115,11 @@ Generated for each model to analyze True Positives, True Negatives, False Positi
 3. Run the script:
    ```bash
    python sentiment_analysis.py
-  ```
+   ```
+## **Authors**
+- **Aakanksha Kashyap (21052466)**
+- **Ritika Rani (21051016)**
+
 
 
 
