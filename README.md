@@ -118,7 +118,7 @@ Generated for each model to analyze True Positives, True Negatives, False Positi
    ```
 ## **Authors**
 - **Aakanksha Kashyap (21052466)**
-- **Ritika Rani (21051016)**
+
 
 
 
