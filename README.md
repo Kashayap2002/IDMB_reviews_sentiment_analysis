@@ -104,7 +104,7 @@ Generated for each model to analyze True Positives, True Negatives, False Positi
 ## **How to Run the Code**
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Kashayap2002/IDMB_reviews_sentiment_analysis
    ```
 
 2. Install required libraries:
